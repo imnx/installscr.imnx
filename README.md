@@ -1,7 +1,8 @@
-# installscr.imnx
+installscr.imnx
+==================
 Installer scripts for iMnX's installer project for Debian/Ubuntu.
 
-Obtaining a Copy
+cloning
 ------------------
 To obtain a copy of this repo using git-scm in your terminal or command prompt, type:
 ```
